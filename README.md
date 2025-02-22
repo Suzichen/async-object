@@ -1,8 +1,4 @@
 
----
-
-## **Optimized README.md**
-```markdown
 # async-object
 
 A TypeScript utility for handling asynchronous object initialization using Promises.
